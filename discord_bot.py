@@ -78,4 +78,4 @@ async def get_questions():
         await client.send_message(bot_channel, str(error))
 
 client.loop.create_task(get_questions())
-client.run('token')
+client.run('NTcwMzA1MjE2NjA0Mjc0Njk5.XMFMTg.g-V3fd1b0jsQQSfjcpymvqJd0wU')
