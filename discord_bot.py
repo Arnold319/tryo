@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+import nltk
+nltk.download('stopwords')
 import time
 import random
 import asyncio
