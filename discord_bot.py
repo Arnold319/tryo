@@ -23,7 +23,7 @@ async def on_ready():
     print(client.user.name)
     print(client.user.id)
     print('------')
-    await client.send_message(bot_channel, "Connection settings invalid")
+    
 
 
 async def get_questions():
