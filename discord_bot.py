@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-import nltk
-nltk.download('stopwords')
-nltk.download('averaged_perceptron_tagger')
 import time
 import random
 import asyncio
